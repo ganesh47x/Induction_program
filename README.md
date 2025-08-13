@@ -7,13 +7,13 @@ The day started with a peaceful visit to the College Gurudwara Sahib. The atmosp
 ## 2. Auditorium Session (10:00 AM – 1:00 PM)
 After the Gurudwara Sahib visit, we all gathered in the auditorium for the main event of the day. The session was packed with valuable information and some really inspiring talks by the faculty and guests.
 ---
- **Dr. Harpreet Kaur Grewal** , Head of the Department of Applied Sciences, welcomed us warmly. She explained how important the foundation courses are for engineers and how they build the base for the upcoming years.
+Dr. Harpreet Kaur Grewal, Head of the Department of Applied Sciences, welcomed us warmly. She explained how important the foundation courses are for engineers and how they build the base for the upcoming years.
 ---
-**Dr. Sehijpal Singh,** our Principal Sir, gave a speech about discipline, using our time wisely, and how GNDEC has a great legacy. His words genuinely made me feel like I made the right choice by joining this college.
+Dr. Sehijpal Singh, our Principal Sir, gave a speech about discipline, using our time wisely, and how GNDEC has a great legacy. His words genuinely made me feel like I made the right choice by joining this college.
 ---
-**Dr. Akshay Girdhar,** Dean Academics, gave us an overview of how academics will go, how to keep a balance, and how students can get help if they’re facing any academic issues. He also mentioned the importance of consistent effort.
+Dr. Akshay Girdhar, Dean Academics, gave us an overview of how academics will go, how to keep a balance, and how students can get help if they’re facing any academic issues. He also mentioned the importance of consistent effort.
 ---
-**Dr. Parminder Singh,** Dean Student Welfare, told us about the various student support systems, clubs, events, and general student life. He seemed really approachable and supportive. It made me feel more confident about adjusting to this new environment.
+Dr. Parminder Singh, Dean Student Welfare, told us about the various student support systems, clubs, events, and general student life. He seemed really approachable and supportive. It made me feel more confident about adjusting to this new environment.
 ---
 We also had two special guests:
  **Ravinder Garg, Chief Engineer,** shared his personal experiences and inspired us to aim high in our careers.
