@@ -70,7 +70,7 @@ Discussed about vibration.Then they do experiment on vibration.
  At 11.30
 
 ---
-##Priya darshani mam
+## Priya darshani mam
 Tells about the ultimate goal
 Money is not everything 
 Tells about the value of relationship like family, friends, relation,etc.
@@ -108,7 +108,7 @@ Key takeaways included:
 This session encouraged self-reflection and personal growth, aligning values with our actions.
 
 ---
-## 💻 Cosmic Club Session – Laptop Awareness(2.30-3.30)
+## Cosmic Club Session – Laptop Awareness(2.30-3.30)
 The day concluded with a session conducted by the **Cosmic Club**.  
 This lecture provided **useful knowledge about laptops**, including:
 - Understanding the basic components (CPU, RAM, storage, etc.)
