@@ -47,7 +47,7 @@ After that the induction got ended.
 
 At 9.00 I reached college auditorium.The day started from prayer.
 
-**9.15 - dr.jaswinder singh**
+## Dr.jaswinder singh (9:15 am)
 Talks about meaning of sati shree akal
 Mathematics is the base of science 
 Teaches the value of teachers.
@@ -57,7 +57,7 @@ Operator
 Destroyer 
 Teaches the meanings of meditation 
 Like what you see after closing your eye and what u hear after closing your ears.
- Discussed about vibration.Then they do experiment on vibration.
+Discussed about vibration.Then they do experiment on vibration.
 
 ---
 ## Chief Guest: Gurcharan Singh Grewal (11:30 AM)
@@ -66,7 +66,7 @@ Like what you see after closing your eye and what u hear after closing your ears
  At 11.30
 
 ---
-**Priya darshani mam**
+##Priya darshani mam
 Tells about the ultimate goal
 Money is not everything 
 Tells about the value of relationship like family, friends, relation,etc.
@@ -116,7 +116,7 @@ It was a highly practical session, especially helpful for students new to digita
 ---
 
 # Day 5 (05-08-2025)
-### BEEE Lecture (10.30-11.30)
+## BEEE Lecture (10.30-11.30)
 The day started with a new chapter.
 A new subject **BEEE** is added to our syallabus. **Professor 
 Harminder Kaur** .Tells about this about.They introduced the subject topics like what we would learn,etc.We learned about many new things also in this subject.
