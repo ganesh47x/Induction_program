@@ -1,6 +1,6 @@
 # **Induction-Program**
 **Ganesh Kumar**, B.tech CSE B2
-# Day 1 (31 july 2025)
+# Day 1 (July 31, 2025)
 ## 1. Gurudwara Sahib Visit (8:30 AM – 9:30 AM)
 
 The day started with a peaceful visit to the College Gurudwara Sahib. The atmosphere was really calming and gave me a positive vibe. It felt like the right way to begin this new phase of life. Everyone sat quietly and listened to the prayer. It kind of set the tone for the rest of the day — peaceful and focused.
@@ -30,7 +30,7 @@ The session was finally concluded by Dr. K.S. Mann, Head of the IT Department. H
 
 ---
 
-# Day2 (01 august 2025)
+# Day2 (August 01, 2025)
 
 My second day at GNDEC was also too good. As to be honest i reached college  late. I reached college late by about 30 minutes .There was a **English Proficiency test** on the second day at 9.30 but reached at 10.00 am so i missed the test. Then i went to classroom and attended my **Math proficiency test.** The test went good. After that we all got a break from 11.30 to 1.00 pm.
 
@@ -43,7 +43,7 @@ After that the induction got ended.
 
 ---
 
-# Day 3 (02 August 2025)
+# Day 3 (August 02, 2025)
 
 At 9.00 I reached college auditorium.The day started from prayer.
 
@@ -78,7 +78,7 @@ I learned meany new things again.
 
 ---
 
-# Day 4 (04-08-2025)
+# Day 4 (August 03, 2025)
 ## P2P Classes (9.30-10.30)
 The day began with insightful class .In P2P classes our seniors starts teaching us the basic of **C++ language.** They told us how to start your first program. They told the basics of c++ .Like printing Hello world.
 They also told us where to write or program or run it.
@@ -115,7 +115,7 @@ It was a highly practical session, especially helpful for students new to digita
 
 ---
 
-# Day 5 (05-08-2025)
+# Day 5 (August 04,2025)
 ## BEEE Lecture (10.30-11.30)
 The day started with a new chapter.
 A new subject **BEEE** is added to our syallabus. **Professor 
