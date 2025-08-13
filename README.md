@@ -1,12 +1,12 @@
 # **Induction-Program**
 **Ganesh Kumar**, B.tech CSE B2
 # Day 1 (July 31, 2025)
-## 1. Gurudwara Sahib Visit (8:30 AM – 9:30 AM)
+## Gurudwara Sahib Visit (8:30 AM – 9:30 AM)
 
 The day started with a peaceful visit to the College Gurudwara Sahib. The atmosphere was really calming and gave me a positive vibe. It felt like the right way to begin this new phase of life. Everyone sat quietly and listened to the prayer. It kind of set the tone for the rest of the day — peaceful and focused.
 
 ---
-## 2. Auditorium Session (10:00 AM – 1:00 PM)
+## Auditorium Session (10:00 AM – 1:00 PM)
 
 After the Gurudwara Sahib visit, we all gathered in the auditorium for the main event of the day. The session was packed with valuable information and some really inspiring talks by the faculty and guests.
 
