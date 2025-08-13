@@ -30,7 +30,7 @@ After the Gurudwara Sahib visit, we all gathered in the auditorium for the main 
 
 The session was finally concluded by Dr. K.S. Mann, Head of the IT Department. He gave us an overview of the IT department, future projects, and opportunities. He seemed really passionate about tech and encouraged us to stay updated and grab every chance to learn and grow.
 
-------
+--- ---
 
 # Day2 (August 01, 2025)
 
