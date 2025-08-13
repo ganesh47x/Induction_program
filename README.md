@@ -23,7 +23,7 @@ After the Gurudwara Sahib visit, we all gathered in the auditorium for the main 
 **Dr. Parminder Singh,** Dean Student Welfare, told us about the various student support systems, clubs, events, and general student life. He seemed really approachable and supportive. It made me feel more confident about adjusting to this new environment.
 
 ---
-We also had two special guests:
+###We also had two special guests:
 **Ravinder Garg, Chief Engineer,** shared his personal experiences and inspired us to aim high in our careers.
 **Er. Rakesh Kumar,** GNDEC alumnus from the 1991 batch, spoke about his journey after college and how GNDEC played a key role in shaping his career. Listening to an alumnus was really motivating.
 The session was finally concluded by Dr. K.S. Mann, Head of the IT Department. He gave us an overview of the IT department, future projects, and opportunities. He seemed really passionate about tech and encouraged us to stay updated and grab every chance to learn and grow.
