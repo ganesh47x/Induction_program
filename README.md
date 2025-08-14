@@ -30,7 +30,7 @@ After the Gurudwara Sahib visit, we all gathered in the auditorium for the main 
 
 The session was finally concluded by Dr. K.S. Mann, Head of the IT Department. He gave us an overview of the IT department, future projects, and opportunities. He seemed really passionate about tech and encouraged us to stay updated and grab every chance to learn and grow.
 
---- ---
+---
 
 # Day2 (August 01, 2025)
 
@@ -43,7 +43,6 @@ Then everyone went to Auditorium of the college. Where **Dr.Arshdeep singh** gav
 At 2.00 pm students of Causmic club ( 4th year students) launch an induction . They told us how tu use GitHub. Value of Github in cse,it department,and as a senior they suggested us What should we do to get a better placement.
 After that the induction got ended. 
 
----
 ---
 
 # Day 3 (August 02, 2025)
@@ -79,7 +78,6 @@ At last about 1.30 the lecture got ended.
 Then we all came out from auditorium line by line.
 I learned meany new things again.
 
----
 ---
 
 # Day 4 (August 03, 2025)
@@ -118,7 +116,6 @@ This lecture provided **useful knowledge about laptops**, including:
 It was a highly practical session, especially helpful for students new to digital learning tools.
 
 ---
----
 
 # Day 5 (August 04,2025)
 ## BEEE Lecture (10.30-11.30)
@@ -139,5 +136,4 @@ In break we got some relax, we eat snacks, lunch,cold drinks etc.
 After the break we all went to **TCC Seminar Hall** . Where we all submitted our copies of aadhar card,Then teachers tooks our photographs.After all we came back to home.
 The day was full with joy, learned new things and many more.
 
----
 ---
