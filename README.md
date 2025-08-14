@@ -1,5 +1,5 @@
 # **Induction-Program**
-**Ganesh Kumar**, B.tech CSE B2
+**Ganesh Kumar**, B.tech CSE B1
 # Day 1 (July 31, 2025)
 ## Gurudwara Sahib Visit (8:30 AM – 9:30 AM)
 
